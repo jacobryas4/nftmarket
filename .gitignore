@@ -30,6 +30,7 @@ yarn-error.log*
 
 .secret
 config.js
+hardhat.config.js
 
 # vercel
 .vercel
